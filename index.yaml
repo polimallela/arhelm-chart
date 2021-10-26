@@ -3,12 +3,12 @@ entries:
   helmchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-26T12:40:33.3654053+05:30"
+    created: "2021-10-26T14:52:13.383854+05:30"
     description: A Helm chart for Kubernetes
-    digest: 191cdbf8b5170c9c7cea60a63d3e9a06899fe2defc3057ad685a5d0e0932ec8b
+    digest: e3f4539f2b4e35215b045bd9070585832ec3f00f26c97473bea11b9f109f47e8
     name: helmchart
     type: application
     urls:
-    - https://polimallela.github.io/arhelm-chart/helmchart/helmchart-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-10-26T12:40:33.3642867+05:30"
+    - https://polimallela.github.io/arhelm-chart/helmchart/helmchart-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-10-26T14:52:13.3807192+05:30"
