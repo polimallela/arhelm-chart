@@ -2,7 +2,7 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-replicaCount: 3
+replicaCount: 2
 image:
   repository: nginx
   pullPolicy: IfNotPresent
@@ -69,7 +69,7 @@ resources: {}
 
 autoscaling:
   enabled: false
-  minReplicas: 3
+  minReplicas: 2
   maxReplicas: 100
   targetCPUUtilizationPercentage: 80
   # targetMemoryUtilizationPercentage: 80
