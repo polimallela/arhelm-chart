@@ -9,6 +9,6 @@ entries:
     name: helmchart
     type: application
     urls:
-    - https://polimallela.github.io/arhelm-chart/helmchart/helmchart-0.1.1.tgz
-    version: 0.1.1
+    - https://polimallela.github.io/arhelm-chart/helmchart/helmchart-0.1.2.tgz
+    version: 0.1.2
 generated: "2021-10-26T14:52:13.3807192+05:30"
